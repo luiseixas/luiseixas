@@ -35,7 +35,7 @@ Olá, me chamo **Luís Seixas**, sou de São Luís do Maranhão, faço Sistemas 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/314392/node.svg" alt="node" width="40" height="40">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="40" height="40">
 </p>
 
 <p>
