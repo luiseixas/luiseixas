@@ -15,7 +15,7 @@ Olá, me chamo **Luís Seixas**, sou de São Luís do Maranhão, faço Sistemas 
 
 **Meus interesses pessoais:**
 
-- 👨🏽‍💻 Estou estudando **React** e vou comecar a estudar **Node.js**; 
+- 👨🏽‍💻 Destinando meus estudos mais pro back end, utilizando em especial o universo do **JavaScript**; 
 - 🤔 Meus hobbies são assistir filmes e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para **luiseixas2@gmail.com** para me encontrar.
@@ -36,13 +36,18 @@ Olá, me chamo **Luís Seixas**, sou de São Luís do Maranhão, faço Sistemas 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt=""typescript width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+
+  
+
 </p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiseixas&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseixas&layout=compact&theme=dracula&title_color=268bd2" alt="johnatas-henrique" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseixas&layout=compact&theme=dracula&title_color=268bd2" alt="luis-seixas" />
 </p>
 
 <br />
