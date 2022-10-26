@@ -1,6 +1,3 @@
-<a href="https://github.com/luiseixas" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
 <a href="https://www.instagram.com/luiscjseixas/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>  
@@ -11,7 +8,7 @@
 <br />
 <br />
 
-Olá, eu me chamo **Luís Seixas**, sou um entusiasta do mundo tecnologico e atualmente curso Análise e Desenvolvimento de Sistemas 🚀. 
+Olá, eu me chamo **Luís Seixas**, sou um entusiasta da tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas 🚀. 
 
 **Meus interesses pessoais:**
 
