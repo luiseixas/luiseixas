@@ -35,6 +35,10 @@ Olá, eu me chamo **Luís Seixas**, sou um entusiasta da tecnologia e atualmente
   <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt=""typescript width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
+
+
 </p>
 
 <div>
