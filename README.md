@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Olá, eu me chamo **Luís Seixas**, sou um entusiasta da tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas 🚀. 
+Olá, eu me chamo **Luís Seixas**, sou um entusiasta da tecnologia e atualmente curso **Análise e Desenvolvimento de Sistemas**. 🚀 
 
 **Meus interesses pessoais:**
 
