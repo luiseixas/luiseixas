@@ -42,7 +42,7 @@ Olá, eu me chamo **Luís Seixas**, sou um entusiasta do mundo tecnologico e atu
 
 <div align='center'>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiseixas&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseixas&layout=compact&theme=dracula&title_color=268bd2" alt="luis-seixas" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseixas&layout=compact&theme=dracula&title_color=268bd2" alt="luis-seixas" />
 </div> 
 
 <br />
