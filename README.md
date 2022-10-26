@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/luiscjseixas/" target="_blank">
+<a href="https://www.instagram.com/seixas.dev/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>  
 <a href="https://www.linkedin.com/in/luis-seixas/" target="_blank">
