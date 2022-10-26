@@ -11,14 +11,14 @@
 <br />
 <br />
 
-Olá, me chamo **Luís Seixas**, sou de São Luís do Maranhão, faço Sistemas de Informação no **IFMA** e atualmente sou estudante de Desenvolvimento Web na **Trybe**  🚀. 
+Olá, eu me chamo **Luís Seixas**, sou um entusiasta do mundo tecnologico e atualmente curso Análise e Desenvolvimento de Sistemas 🚀. 
 
 **Meus interesses pessoais:**
 
 - 👨🏽‍💻 Destinando meus estudos mais pro back end, utilizando em especial o universo do **JavaScript**; 
 - 🤔 Meus hobbies são assistir filmes e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 📫 Por favor, envie um email para **luiseixas2@gmail.com** para me encontrar.
+- 📫 Por favor, envie um email para **luiscjseixas@gmail.com** para me encontrar.
 - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/luiseixas/resume" target="_blank">clicando aqui</a> para mais informações.
 
 <br />
@@ -44,10 +44,12 @@ Olá, me chamo **Luís Seixas**, sou de São Luís do Maranhão, faço Sistemas 
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiseixas&count_private=true&show_icons=true&theme=dracula&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
   </p>
+</div>
+<div>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseixas&layout=compact&theme=dracula&title_color=268bd2" alt="luis-seixas" />
   </p>
-<div>
+</div> 
 
 <br />
 <br />
