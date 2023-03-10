@@ -12,7 +12,7 @@ Olá, eu me chamo **Luís Seixas**, sou um entusiasta da tecnologia e atualmente
 
 **Meus interesses pessoais:**
 
-- 👨🏽‍💻 Destinando meus estudos mais pro back end, utilizando em especial o universo do **JavaScript**; 
+- 👨🏽‍💻 Estudando para me tornar um desenvolvedor fullstack utilizando em especial o universo do **JavaScript**; 
 - 🤔 Meus hobbies são assistir filmes e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para **luiscjseixas@gmail.com** para me encontrar.
